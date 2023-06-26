@@ -6,3 +6,5 @@ aws
 ansible
 jenkis
 cicd
+eks
+git
