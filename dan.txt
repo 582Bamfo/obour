@@ -8,3 +8,4 @@ jenkis
 cicd
 eks
 git
+terraform
