@@ -6,3 +6,4 @@ aws
 ansible
 jenkis
 eks
+terraform
